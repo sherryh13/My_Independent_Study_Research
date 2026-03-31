@@ -1,4 +1,5 @@
 📊 AI Usage and Academic Performance Study
+
 📌 Project Overview
 
 This project explores the relationship between AI tool usage and academic performance among college students. The goal is to understand how students interact with AI tools (such as ChatGPT and other learning technologies) and how these interactions influence their motivation, attitudes, and potential academic outcomes.
